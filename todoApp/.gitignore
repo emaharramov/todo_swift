@@ -1,0 +1,8 @@
+# Xcode files
+DerivedData/
+*.xcuserstate
+*.xcworkspace
+*.xcuserdata
+*.lock
+build/
+
